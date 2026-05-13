@@ -38,7 +38,7 @@ export const style = StyleSheet.create({
         gap: 12,
         borderBottomWidth: 1,
         borderBottomColor: "#E4e6ec",
-        paddingBottom: 12
+        paddingBottom: 18,
     },
     clearButton: {
         marginLeft: "auto",
